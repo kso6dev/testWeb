@@ -6,13 +6,20 @@ https://amethyste16.wordpress.com/2016/12/07/creation-dun-projet-web-dans-visual
 https://www.npmjs.com/get-npm
 
 
-prÈrequis:
-node.js et npm (https://nodejs.org/en/) pour gÈrer maintenir etc code javascript
+prÔøΩrequis:
+node.js et npm (https://nodejs.org/en/) pour gÔøΩrer maintenir etc code javascript
 .Net Core 
 
-Commandes pour vÈrifier quelles versions sont installÈes:
+Commandes pour vÔøΩrifier quelles versions sont installÔøΩes:
 C:\Users\bchaut>node -v
 v9.3.0
 C:\Users\bchaut>npm -v
 5.5.1
 Pour .Net Core, voir https://stackoverflow.com/questions/38567353/how-to-determine-if-netcore-is-installed
+Download .Net Core SDK ici https://www.microsoft.com/net/learn/get-started/windows#windowsvs2015
+ Core Documentation https://aka.ms/dotnet-docs
+    ‚Ä¢ SDK Documentation https://aka.ms/dotnet-cli-docs
+    ‚Ä¢ Release Notes https://aka.ms/20-p2-rel-notes
+    ‚Ä¢ Tutorials https://aka.ms/dotnet-tutorials
+
+Attention pour initialiser un nouveau projet .net core web il faut utiliser la commande dotnet new web (il n y a pas de -t comme indiqu√© dans l'article)

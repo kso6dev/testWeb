@@ -1,0 +1,10 @@
+D:\VISUAL STUDIO CODE\testweb\bin\Debug\netcoreapp2.0\testweb.deps.json
+D:\VISUAL STUDIO CODE\testweb\bin\Debug\netcoreapp2.0\testweb.runtimeconfig.json
+D:\VISUAL STUDIO CODE\testweb\bin\Debug\netcoreapp2.0\testweb.runtimeconfig.dev.json
+D:\VISUAL STUDIO CODE\testweb\bin\Debug\netcoreapp2.0\testweb.dll
+D:\VISUAL STUDIO CODE\testweb\bin\Debug\netcoreapp2.0\testweb.pdb
+D:\VISUAL STUDIO CODE\testweb\obj\Debug\netcoreapp2.0\testweb.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO CODE\testweb\obj\Debug\netcoreapp2.0\testweb.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO CODE\testweb\obj\Debug\netcoreapp2.0\testweb.AssemblyInfo.cs
+D:\VISUAL STUDIO CODE\testweb\obj\Debug\netcoreapp2.0\testweb.dll
+D:\VISUAL STUDIO CODE\testweb\obj\Debug\netcoreapp2.0\testweb.pdb
